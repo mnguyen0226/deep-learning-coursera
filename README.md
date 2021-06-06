@@ -13,7 +13,7 @@
 
 - Code: https://github.com/mnguyen0226/deep-learning-coursera/tree/main/neural_networks_%26_deep_learning
 ### Certification
-![alt text](https://github.com/mnguyen0226/deep-learning-coursera/blob/main/certifications/Coursera_DL_Certification_Course_1.pdf)
+https://github.com/mnguyen0226/deep-learning-coursera/blob/main/certifications/Coursera_DL_Certification_Course_1.pdf
 
 ## Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization (Completed)
 ### About
@@ -21,7 +21,7 @@
 
 - By the end, you will learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
 ### Certification
-![alt text](https://github.com/mnguyen0226/deep-learning-coursera/blob/main/certifications/Coursera%20DL_Certification_Course_2.pdf)
+https://github.com/mnguyen0226/deep-learning-coursera/blob/main/certifications/Coursera%20DL_Certification_Course_2.pdf
 
 ## Course 3: Structuring Machine Learning Projects
 
