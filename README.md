@@ -16,7 +16,7 @@
 - In the second course of the Deep Learning Specialization, you will open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
 - By the end, you will learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
 - [Code](https://github.com/mnguyen0226/deep-learning-coursera/tree/main/improving_deep_neural_networks)
-### [Certification](https://github.com/mnguyen0226/deep-learning-coursera/blob/main/certifications/Coursera%20DL_Certification_Course_2.pdf)
+### [Certification](https://github.com/mnguyen0226/deep-learning-coursera/blob/main/certifications/Coursera_DL_Certification_Course_2.pdf)
 
 ## Course 3: Structuring Machine Learning Projects (Completed)
 ### About
@@ -28,8 +28,8 @@
 ### About
 - In the fourth course of the Deep Learning Specialization, you will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
 - By the end, you will be able to build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data. 
-- Code: 
-### Certification
+- [Code](https://github.com/mnguyen0226/deep-learning-coursera/tree/main/convolution_neural_networks) 
+### [Certification](https://github.com/mnguyen0226/deep-learning-coursera/blob/main/certifications/Coursera_DL_Certification_Course_4.pdf)
 
 ## Course 5: Sequence Model
 ### About
