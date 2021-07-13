@@ -1,5 +1,6 @@
 # Deep Learning Coursera 
 
+![][https://github.com/mnguyen0226/deep-learning-coursera/blob/main/certifications/Coursera_DL_Certification_Final.pdf]
 ## About the Specialization
 - The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. 
 - In this Specialization, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more.
@@ -35,6 +36,6 @@
 ### About
 - In the fifth course of the Deep Learning Specialization, you will become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
 - By the end, you will be able to build and train Recurrent Neural Networks (RNNs) and commonly-used variants such as GRUs and LSTMs; apply RNNs to Character-level Language Modeling; gain experience with natural language processing and Word Embeddings; and use HuggingFace tokenizers and transformer models to solve different NLP tasks such as NER and Question Answering.
-- Code: 
+- [Code](https://github.com/mnguyen0226/deep-learning-coursera/tree/main/sequence_models)
 
-### Certification
+### [Certification](https://github.com/mnguyen0226/deep-learning-coursera/blob/main/certifications/Coursera_DL_Certification_Course_5.pdf)
